@@ -1,0 +1,193 @@
+name,roll,dept,semester,subject,marks,credits
+Gandikota Subbarayudu,CAD001,CAD,5,DBMS,85,3
+Gandikota Subbarayudu,CAD001,CAD,5,Python Programming,78,3
+Gandikota Subbarayudu,CAD001,CAD,5,FLAT,91,3
+Gandikota Subbarayudu,CAD001,CAD,5,COA,67,3
+Gandikota Subbarayudu,CAD001,CAD,5,Software Engineering,75,3
+Gandikota subbarayudu,CAD001,CAD,5,Human Values,88,2
+Gandikota Subbarayudu,CAD001,CAD,5,Python lab,92,1.5
+Gandikota subbarayudu,CAD001,CAD,5,DBMS lab,89,1.5
+Avinash,CAD002,CAD,5,DBMS,89,3
+Avinash,CAD002,CAD,5,Python Programming,85,3
+Avinash,CAD002,CAD,5,FLAT,86,3
+Avinash,CAD002,CAD,5,COA,90,3
+Avinash,CAD002,CAD,5,Software Engineering,87,3
+Avinash,CAD002,CAD,5,Human Values,89,2
+Avinash,CAD002,CAD,5,Python lab,88,1.5
+Avinash,CAD002,CAD,5,DBMS lab,82,1.5
+vinay,CAD003,CAD,5,DBMS,93,3
+vinay,CAD003,CAD,5,Python Programming,90,3
+vinay,CAD003,CAD,5,FLAT,85,3
+vinay,CAD003,CAD,5,COA,78,3
+vinay,CAD003,CAD,5,Software Engineering,92,3
+vinay,CAD003,CAD,5,Human Values,81,2
+vinay,CAD003,CAD,5,Python lab,95,1.5
+vinay,CAD003,CAD,5,DBMS lab,91,1.5
+tharun,CAD004,CAD,5,DBMS,35,0
+tharun,CAD004,CAD,5,Python Programming,45,3
+tharun,CAD004,CAD,5,FLAT,70,3
+tharun,CAD004,CAD,5,COA,63,3
+tharun,CAD004,CAD,5,Software Engineering,56,3
+tharun,CAD004,CAD,5,Human Values,73,2
+tharun,CAD004,CAD,5,Python lab,77,1.5
+tharun,CAD004,CAD,5,DBMS lab,73,1.5
+sai krishna,CAD005,CAD,5,DBMS,88,3
+sai krishna,CAD005,CAD,5,Python Programming,92,3
+sai krishna,CAD005,CAD,5,FLAT,81,3
+sai krishna,CAD005,CAD,5,COA,85,3
+sai krishna,CAD005,CAD,5,Software Engineering,89,3
+sai krishna,CAD005,CAD,5,Human Values,93,2
+sai krishna,CAD005,CAD,5,Python lab,94,1.5
+sai krishna,CAD005,CAD,5,DBMS lab,90,1.5
+arjun,CAD006,CAD,5,DBMS,79,3
+arjun,CAD006,CAD,5,Python Programming,81,3
+arjun,CAD006,CAD,5,FLAT,76,3
+arjun,CAD006,CAD,5,COA,83,3
+arjun,CAD006,CAD,5,Software Engineering,77,3
+arjun,CAD006,CAD,5,Human Values,85,2
+arjun,CAD006,CAD,5,Python lab,82,1.5
+arjun,CAD006,CAD,5,DBMS lab,80,1.5
+dhileep,CAD007,CAD,5,DBMS,95,3
+dhileep,CAD007,CAD,5,Python Programming,88,3
+dhileep,CAD007,CAD,5,FLAT,92,3
+dhileep,CAD007,CAD,5,COA,85,3
+dhileep,CAD007,CAD,5,Software Engineering,90,3
+dhileep,CAD007,CAD,5,Human Values,96,2
+dhileep,CAD007,CAD,5,Python lab,97,1.5
+dhileep,CAD007,CAD,5,DBMS lab,94,1.5
+prem kumar,CAD008,CAD,5,DBMS,68,3
+prem kumar,CAD008,CAD,5,Python Programming,75,3
+prem kumar,CAD008,CAD,5,FLAT,70,3
+prem kumar,CAD008,CAD,5,COA,72,3
+prem kumar,CAD008,CAD,5,Software Engineering,69,3
+prem kumar,CAD008,CAD,5,Human Values,78,2
+prem kumar,CAD008,CAD,5,Python lab,74,1.5
+prem kumar,CAD008,CAD,5,DBMS lab,71,1.5
+ramgopal,CAD009,CAD,5,DBMS,82,3
+ramgopal,CAD009,CAD,5,Python Programming,88,3
+ramgopal,CAD009,CAD,5,FLAT,79,3
+ramgopal,CAD009,CAD,5,COA,84,3
+ramgopal,CAD009,CAD,5,Software Engineering,81,3
+ramgopal,CAD009,CAD,5,Human Values,90,2
+ramgopal,CAD009,CAD,5,Python lab,87,1.5
+ramgopal,CAD009,CAD,5,DBMS lab,85,1.5
+shalini,CAD010,CAD,5,DBMS,91,3
+shalini,CAD010,CAD,5,Python Programming,94,3
+shalini,CAD010,CAD,5,FLAT,88,3
+shalini,CAD010,CAD,5,COA,89,3
+shalini,CAD010,CAD,5,Software Engineering,93,3
+shalini,CAD010,CAD,5,Human Values,95,2
+shalini,CAD010,CAD,5,Python lab,96,1.5
+shalini,CAD010,CAD,5,DBMS lab,92,1.5
+shobhana,CAD011,CAD,5,DBMS,87,3
+shobhana,CAD011,CAD,5,Python Programming,84,3
+shobhana,CAD011,CAD,5,FLAT,90,3
+shobhana,CAD011,CAD,5,COA,81,3
+shobhana,CAD011,CAD,5,Software Engineering,86,3
+shobhana,CAD011,CAD,5,Human Values,91,2
+shobhana,CAD011,CAD,5,Python lab,89,1.5
+shobhana,CAD011,CAD,5,DBMS lab,88,1.5
+lalitha,CAD012,CAD,5,DBMS,76,3
+lalitha,CAD012,CAD,5,Python Programming,79,3
+lalitha,CAD012,CAD,5,FLAT,74,3
+lalitha,CAD012,CAD,5,COA,80,3
+lalitha,CAD012,CAD,5,Software Engineering,78,3
+lalitha,CAD012,CAD,5,Human Values,82,2
+lalitha,CAD012,CAD,5,Python lab,81,1.5
+lalitha,CAD012,CAD,5,DBMS lab,77,1.5
+rukmini,CAD013,CAD,5,DBMS,92,3
+rukmini,CAD013,CAD,5,Python Programming,95,3
+rukmini,CAD013,CAD,5,FLAT,89,3
+rukmini,CAD013,CAD,5,COA,91,3
+rukmini,CAD013,CAD,5,Software Engineering,94,3
+rukmini,CAD013,CAD,5,Human Values,97,2
+rukmini,CAD013,CAD,5,Python lab,98,1.5
+rukmini,CAD013,CAD,5,DBMS lab,96,1.5
+madhav,CAD014,CAD,5,DBMS,70,3
+madhav,CAD014,CAD,5,Python Programming,68,3
+madhav,CAD014,CAD,5,FLAT,72,3
+madhav,CAD014,CAD,5,COA,65,3
+madhav,CAD014,CAD,5,Software Engineering,67,3
+madhav,CAD014,CAD,5,Human Values,75,2
+madhav,CAD014,CAD,5,Python lab,71,1.5
+madhav,CAD014,CAD,5,DBMS lab,69,1.5
+kiran,CAD015,CAD,5,DBMS,84,3
+kiran,CAD015,CAD,5,Python Programming,80,3
+kiran,CAD015,CAD,5,FLAT,86,3
+kiran,CAD015,CAD,5,COA,79,3
+kiran,CAD015,CAD,5,Software Engineering,83,3
+kiran,CAD015,CAD,5,Human Values,88,2
+kiran,CAD015,CAD,5,Python lab,85,1.5
+kiran,CAD015,CAD,5,DBMS lab,82,1.5
+thulasi,CAD016,CAD,5,DBMS,90,3
+thulasi,CAD016,CAD,5,Python Programming,87,3
+thulasi,CAD016,CAD,5,FLAT,92,3
+thulasi,CAD016,CAD,5,COA,85,3
+thulasi,CAD016,CAD,5,Software Engineering,89,3
+thulasi,CAD016,CAD,5,Human Values,94,2
+thulasi,CAD016,CAD,5,Python lab,93,1.5
+thulasi,CAD016,CAD,5,DBMS lab,91,1.5
+revathi,CAD017,CAD,5,DBMS,88,3
+revathi,CAD017,CAD,5,Python Programming,91,3
+revathi,CAD017,CAD,5,FLAT,85,3
+revathi,CAD017,CAD,5,COA,89,3
+revathi,CAD017,CAD,5,Software Engineering,86,3
+revathi,CAD017,CAD,5,Human Values,93,2
+revathi,CAD017,CAD,5,Python lab,92,1.5
+revathi,CAD017,CAD,5,DBMS lab,90,1.5
+durga,CAD018,CAD,5,DBMS,78,3
+durga,CAD018,CAD,5,Python Programming,82,3
+durga,CAD018,CAD,5,FLAT,75,3
+durga,CAD018,CAD,5,COA,80,3
+durga,CAD018,CAD,5,Software Engineering,79,3
+durga,CAD018,CAD,5,Human Values,85,2
+durga,CAD018,CAD,5,Python lab,83,1.5
+durga,CAD018,CAD,5,DBMS lab,81,1.5
+venkatesh,CAD019,CAD,5,DBMS,85,3
+venkatesh,CAD019,CAD,5,Python Programming,89,3
+venkatesh,CAD019,CAD,5,FLAT,82,3
+venkatesh,CAD019,CAD,5,COA,87,3
+venkatesh,CAD019,CAD,5,Software Engineering,84,3
+venkatesh,CAD019,CAD,5,Human Values,91,2
+venkatesh,CAD019,CAD,5,Python lab,90,1.5
+venkatesh,CAD019,CAD,5,DBMS lab,88,1.5
+raju,CAD020,CAD,5,DBMS,73,3
+raju,CAD020,CAD,5,Python Programming,70,3
+raju,CAD020,CAD,5,FLAT,76,3
+raju,CAD020,CAD,5,COA,68,3
+raju,CAD020,CAD,5,Software Engineering,71,3
+raju,CAD020,CAD,5,Human Values,79,2
+raju,CAD020,CAD,5,Python lab,75,1.5
+raju,CAD020,CAD,5,DBMS lab,72,1.5
+pavan,CAD021,CAD,5,DBMS,94,3
+pavan,CAD021,CAD,5,Python Programming,96,3
+pavan,CAD021,CAD,5,FLAT,91,3
+pavan,CAD021,CAD,5,COA,93,3
+pavan,CAD021,CAD,5,Software Engineering,95,3
+pavan,CAD021,CAD,5,Human Values,98,2
+pavan,CAD021,CAD,5,Python lab,99,1.5
+pavan,CAD021,CAD,5,DBMS lab,97,1.5
+chiranjeevi,CAD022,CAD,5,DBMS,80,3
+chiranjeevi,CAD022,CAD,5,Python Programming,83,3
+chiranjeevi,CAD022,CAD,5,FLAT,78,3
+chiranjeevi,CAD022,CAD,5,COA,81,3
+chiranjeevi,CAD022,CAD,5,Software Engineering,82,3
+chiranjeevi,CAD022,CAD,5,Human Values,86,2
+chiranjeevi,CAD022,CAD,5,Python lab,85,1.5
+chiranjeevi,CAD022,CAD,5,DBMS lab,84,1.5
+abhishek,CAD023,CAD,5,DBMS,89,3
+abhishek,CAD023,CAD,5,Python Programming,86,3
+abhishek,CAD023,CAD,5,FLAT,92,3
+abhishek,CAD023,CAD,5,COA,85,3
+abhishek,CAD023,CAD,5,Software Engineering,90,3
+abhishek,CAD023,CAD,5,Human Values,94,2
+abhishek,CAD023,CAD,5,Python lab,93,1.5
+abhishek,CAD023,CAD,5,DBMS lab,91,1.5
+pallavi,CAD024,CAD,5,DBMS,93,3
+pallavi,CAD024,CAD,5,Python Programming,90,3
+pallavi,CAD024,CAD,5,FLAT,95,3
+pallavi,CAD024,CAD,5,COA,88,3
+pallavi,CAD024,CAD,5,Software Engineering,92,3
+pallavi,CAD024,CAD,5,Human Values,96,2
+pallavi,CAD024,CAD,5,Python lab,97,1.5
+pallavi,CAD024,CAD,5,DBMS lab,94,1.5

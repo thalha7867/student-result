@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "course": "^0.0.1",
+    "csv-parser": "^3.2.0",
+    "express": "^5.1.0"
+  }
+}
