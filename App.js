@@ -4,7 +4,7 @@ const express = require("express");
 const cors = require("cors");
 const csv = require("csv-parser");
 
-const PORT = 5001;
+const PORT = process.env.PORT || 5001;
 const CSV_FILE = path.join(__dirname, "student_data.csv");
 
 const app = express();
@@ -124,6 +124,6 @@ app.get("/student/:roll_number", (req, res) => {
 (async function startServer() {
   allStudentsData = await loadStudentsFromCSV();
   app.listen(PORT, () =>
-    console.log(`✅ Server running on http://localhost:${PORT}`)
+    console.log(`✅ Server running on port ${PORT}`)
   );
 })();
