@@ -13,9 +13,7 @@ document.addEventListener("DOMContentLoaded", () => {
     reportContainer.innerHTML = `<p class="placeholder-text">Fetching data...</p>`;
 
     try {
-      const response = await fetch(
-        `http://localhost:5001/student/${rollNumber}`
-      );
+      const response = await fetch(`/student/${rollNumber}`);
 
       if (!response.ok) {
         const errorData = await response.json();
