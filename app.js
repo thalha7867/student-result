@@ -10,6 +10,7 @@ const CSV_FILE = path.join(__dirname, "student_data.csv");
 const app = express();
 app.use(cors());
 app.use(express.json());
+app.use(express.static(__dirname));
 
 function getGradePoint(marks) {
   if (marks >= 90) return { gp: 10, grade: "A+" };
